@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @febrin23
-- 👀 I’m interested in php laravel and codeigniter
+- 👋 Hi, I’m febrin
+- 👀 I’m interested coding with php laravel and codeigniter
 - 🌱 I’m currently learning mobile android using android studio and create a flow for analyst system
 - 💞️ I’m looking to collaborate on get website and connect to android mobile
 - 📫 How to reach me you can send a question for me from my email febrinmanalu23@gmail.com
